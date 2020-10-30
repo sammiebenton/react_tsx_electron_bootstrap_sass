@@ -1,8 +1,8 @@
 {
-  "name": "techup",
-  "productName": "techup",
+  "name": "react_tsx_electron_bootstrap_sass",
+  "productName": "react_tsx_electron_bootstrap_sass",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "My Electron React Typescript Bootstrap and Sass application description",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Sammie",
-    "email": "info@sammiebenton.com"
+    "name": "name",
+    "email": "email@email.com"
   },
   "license": "MIT",
   "config": {
@@ -24,7 +24,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "flex_helper"
+            "name": "react_tsx_electron_bootstrap_sass"
           }
         },
         {

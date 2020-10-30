@@ -28,8 +28,8 @@ Trace:
 
 npm manifest: 
   {
-    "name": "techup",
-    "productName": "techup",
+    "name": "react_tsx_electron_bootstrap_sass",
+    "productName": "react_tsx_electron_bootstrap_sass",
     "version": "1.0.0",
     "description": "My Electron application description",
     "main": ".webpack/main",
